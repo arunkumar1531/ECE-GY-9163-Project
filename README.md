@@ -3,8 +3,6 @@
 #### The dataset used for this project is Malaria Cell Images Dataset. The link is given below.
 #### Dataset - https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
 
-#### The link to the 
-
 #### There are 4 weight files. 2 files for each model - Training with the actual dataset and Training with Adversarial Images Dataset.
 #### The link to the trained model weights is given below.
 #### weights - https://drive.google.com/drive/folders/10RWy0L-TcMV3nRm5DyUsRxJv90fXug5x?usp=share_link
